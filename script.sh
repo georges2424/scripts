@@ -2,8 +2,8 @@
 
 
 #Description: Script to display system info
-#Author: Serge
-#date July 2020
+#Author: Georges
+#date July 22 2020
 
 
 lscpu
